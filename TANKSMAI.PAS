@@ -1,2 +1,5 @@
-{hello world}
-Writeline()
+begin
+clrscr;
+writeln('sasr');
+readln;
+end.
