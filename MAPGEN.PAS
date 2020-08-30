@@ -51,7 +51,7 @@ begin
              x:= x+size_block;
          end;
          x:= left_x;
-         y:= y + size_of_block;
+         y:= y + size_block;
      end;
 end;
 
