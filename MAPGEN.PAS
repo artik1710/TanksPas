@@ -59,7 +59,7 @@ procedure readMap(level : integer);
 var file_map : text;
 var i,j: integer;
 begin
-    assign(file_map,'c:\TPWDB\TANKS\maptest.txt');
+    assign(file_map,'c:\TPWDB\TanksPas\maptest.txt');
     reset(file_map);
     
     for i := 0 to 12 do begin
